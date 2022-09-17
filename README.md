@@ -24,7 +24,7 @@ Step 3:-  Enter <b>"live-server --port=8000"<b><br>
 
 <h1>Support a creator</h1>
 Patreon --------> https://www.patreon.com/RyklEditz <br>
-Instagram ------> @Xhenzu
+Instagram ------> @Xhenzu<br>
 E-mail ---------> b9422.shenal@gmail.com
 
 <h1 style="font-size: 20px">PEACE OUT!</h1>
