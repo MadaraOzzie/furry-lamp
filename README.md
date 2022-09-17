@@ -1,6 +1,6 @@
 <B style="color: red;">NOTICE: STILL IN DEVELOPEMENT<B>
 
-# furry-lamp
+# Furry-Lamp (Fully-Responsive)
 A cool Video Chat Application with controls and AGORA SDK integrated with simple and modern UI
 
 <h1>Overview</h1>
