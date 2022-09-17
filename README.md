@@ -1,4 +1,4 @@
-<B color="red">NOTICE: STILL IN DEVELOPEMENT<B>
+<B style="color: red;">NOTICE: STILL IN DEVELOPEMENT<B>
 
 # furry-lamp
 A cool Video Chat Application with controls and AGORA SDK integrated with simple and modern UI
@@ -22,3 +22,9 @@ Step 1 :- Clone repo from https://github.com/MadaraOzzie/furry-lamp to local mac
 Step 2 :- Run terminal<br>
 Step 3:-  Enter <b>"live-server --port=8000"<b><br>
 
+<h1>Support a creator</h1>
+Patreon --------> https://www.patreon.com/RyklEditz <br>
+Instagram ------> @Xhenzu
+E-mail ---------> b9422.shenal@gmail.com
+
+<h1 style="font-size: 20px">PEACE OUT!</h1>
