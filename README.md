@@ -18,7 +18,7 @@ A cool Video Chat Application with controls and AGORA SDK integrated with simple
 
 <h1>Installation Steps</h1>
 
-Step 1 :- Clone repo from https://github.com/MadaraOzzie/furry-lamp to local machine
+Step 1 :- Clone repo from https://github.com/MadaraOzzie/furry-lamp to local machine <br>
 Step 2 :- Run terminal
 Step 3:-  Enter <b>"live-server --port=8000"<b>
 
