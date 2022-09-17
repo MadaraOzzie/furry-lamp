@@ -11,7 +11,7 @@ A cool Video Chat Application with controls and AGORA SDK integrated with simple
 <h4>Joined meeting with mic ON and video ON💚<h4>
 <img src="assets\miconcamon.png">
 <h4>Joined meeting with mic OFF and video OFF🧡<h4>
-<img src="assets\miconcamon(1).png">
+<img src="assets\miconcamon (1).png">
 <h4>Multi-user support🖐<h4>
 <img src="assets\Untitled design.png">
 <br>
