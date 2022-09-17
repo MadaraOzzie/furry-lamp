@@ -9,7 +9,7 @@ A cool Video Chat Application with controls and AGORA SDK integrated with simple
 <img src="assets\furrylamp home.PNG">
 <br>
 <h4>Joined meeting with mic ON and video ON💚<h4>
-<img src="assets\miconcamon.png" height="50rem" width="30rem">
+<img src="assets\miconcamon.png" height="500rem" width="300rem">
 <h4>Joined meeting with mic OFF and video OFF🧡<h4>
 <img src="assets\miconcamon (1).png">
 <h4>Multi-user support🖐<h4>
