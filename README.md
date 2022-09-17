@@ -1,2 +1,7 @@
+<B>NOTICE: STILL IN DEVELOPEMENT<B>
+
 # furry-lamp
-An educational website where the WHOLE WORLD can share their knowledge with everyone else
+A cool Video Chat Application with controls and AGORA SDK integrated with simple and modern UI
+
+<h1>Installation Steps</h1>
+
